@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there👋, I'm Mohak Patel!
+Welcome to my GitHub! I'm a passionate and curious developer, currently focused on **Machine Learning**, **Data Science**, and **Artificial intelligence**. I love building real-world projects that solve problems, automate tasks, or just look cool 😄.
 
-<!--
-**MohakPatel2004/MohakPatel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Pursuing my **Bachelor's in Computer Engineering**
+- 💡 Fascinated by **AI/ML**, especially real-time and predictive applications
+- 👨‍💻 Proficient in **Python, MySQL, JavaScript, React, and VS Code**
+- 🛠️ Love working with **Streamlit, Flask, MongoDB**, and **APIs**
+- 📊 Currently working on a **Heart Disease Prediction** and **Boston Housing Price** ML project
+- 🧠 Always learning new technologies, recently exploring **LLMs** and **LangChain**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Featured Projects
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🔬 Heart Disease Predictor | Python, ML, Streamlit | Predicts risk of heart disease using clinical inputs. |
+| 🏠 House Price Estimator | Scikit-learn, Flask | Predicts Boston house prices with various regression models. |
+| 🧠 AI Interview Bot | OpenAI API, Gradio | Simulates a technical interview and evaluates answers using NLP. |
+| 📈 GitHub Repo Analyzer | React, GitHub API | Visualizes data from any public GitHub repository. |
+
+---
+
+## 📫 How to Reach Me
+- 🌐 [LinkedIn](www.linkedin.com/in/mohak-patel)  
+- 📧 Email: [mohakpatel2004@gmail.com]  
+
+---
+
+## ⚡ Fun Facts
+- 🎮 Gamer by heart (Sekiro conquered twice!)
+- 🧪 Enjoy experimenting with Python scripts and automation
+- 🧘 Chill with music, memes, and coding late nights
+
+---
+
+### ⭐️ Don't forget to check out my pinned repositories and leave a ⭐ if you like something!
