@@ -1,11 +1,7 @@
 ### Hi there👋, I'm Mohak Patel!
 Welcome to my GitHub! I'm a passionate and curious developer, currently focused on **Machine Learning**, **Data Science**, and **Artificial Intelligence**. I love building real-world projects that solve problems, automate tasks, or just look cool 😄.
 
----
 
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://github.com/mohakamitpatel/mohakamitpatel/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -42,4 +38,7 @@ Welcome to my GitHub! I'm a passionate and curious developer, currently focused 
 
 ---
 
+![GitHub Snake](https://github.com/mohakamitpatel/mohakamitpatel/blob/output/github-contribution-grid-snake.svg)
+
+---
 ### ⭐️ Don't forget to check out my pinned repositories and leave a ⭐ if you like something!
