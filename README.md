@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate and curious developer, currently focused 
 | 🔬 Heart Disease Predictor | Python, ML, Streamlit | Predicts risk of heart disease using clinical inputs. |
 | 🏠 House Price Estimator | Scikit-learn, Flask | Predicts Boston house prices with various regression models. |
 | 🧠 AI Interview Bot | OpenAI API, Gradio | Simulates a technical interview and evaluates answers using NLP. |
-| 📈 GitHub Repo Analyzer | React, GitHub API | Visualizes data from any public GitHub repository. |
+| 🖼️ Image Caption Generator | Python, TensorFlow, Keras | Generates descriptive captions for images using deep learning with CNN + LSTM architecture. |
 
 ---
 
