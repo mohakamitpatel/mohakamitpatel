@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate and curious developer, currently focused 
 
 ---
 
-![GitHub Snake](https://github.com/mohakamitpatel/mohakamitpatel/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/mohakamitpatel/mohakamitpatel/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ### ⭐️ Don't forget to check out my pinned repositories and leave a ⭐ if you like something!
