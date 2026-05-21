@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate and curious developer, currently focused 
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing my **Bachelor's in Computer Engineering**
+- 🎓 Completed my **Bachelor's in Computer Engineering**
 - 💡 Fascinated by **AI/ML**, especially real-time and predictive applications
 - 👨‍💻 Proficient in **Python, MySQL, JavaScript, React, and VS Code**
 - 🛠️ Love working with **Streamlit, Flask, MongoDB**, and **APIs**
